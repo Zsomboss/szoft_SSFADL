@@ -62,12 +62,7 @@ namespace kigyos
             KígyóElem ke = new KígyóElem();
             kígyó.Add(ke); //Amikor új fejet neveztünk a kígyónak, azt beletesszük a `kígyó` listába is ..
             Controls.Add(ke);
-            if (kígyó.Count > KígyóElem.Hossz)
-            {
-                KígyóElem levágandó = kígyó[0];
-                kígyó.RemoveAt(0);
-                Controls.Remove(levágandó);
-            }
+            
 
             if (lépésszám % 2 == 0) ke.BackColor = Color.Yellow;
 
