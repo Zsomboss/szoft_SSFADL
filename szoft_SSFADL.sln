@@ -11,10 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.het", "3.het\3.het.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "veletlenszam", "veletlenszam\veletlenszam.csproj", "{A81770DF-271E-4B7B-B3D7-C8B6AA101B60}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZH1_SSFADL", "ZH1_SSFADL\ZH1_SSFADL.csproj", "{127A4879-3C86-42FB-A9B6-DC4B7DD1EE60}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zh2_SSFADL", "zh2_SSFADL\zh2_SSFADL.csproj", "{D297F363-A7BC-43B1-94C8-4F877D85655D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,14 +33,6 @@ Global
 		{A81770DF-271E-4B7B-B3D7-C8B6AA101B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A81770DF-271E-4B7B-B3D7-C8B6AA101B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A81770DF-271E-4B7B-B3D7-C8B6AA101B60}.Release|Any CPU.Build.0 = Release|Any CPU
-		{127A4879-3C86-42FB-A9B6-DC4B7DD1EE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{127A4879-3C86-42FB-A9B6-DC4B7DD1EE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{127A4879-3C86-42FB-A9B6-DC4B7DD1EE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{127A4879-3C86-42FB-A9B6-DC4B7DD1EE60}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D297F363-A7BC-43B1-94C8-4F877D85655D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D297F363-A7BC-43B1-94C8-4F877D85655D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D297F363-A7BC-43B1-94C8-4F877D85655D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D297F363-A7BC-43B1-94C8-4F877D85655D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
