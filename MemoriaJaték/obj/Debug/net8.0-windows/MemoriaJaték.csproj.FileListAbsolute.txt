@@ -1,0 +1,17 @@
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\bin\Debug\net8.0-windows\MemoriaJaték.exe
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\bin\Debug\net8.0-windows\MemoriaJaték.deps.json
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\bin\Debug\net8.0-windows\MemoriaJaték.runtimeconfig.json
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\bin\Debug\net8.0-windows\MemoriaJaték.dll
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\bin\Debug\net8.0-windows\MemoriaJaték.pdb
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\obj\Debug\net8.0-windows\MemoriaJaték.Form1.resources
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\obj\Debug\net8.0-windows\MemoriaJaték.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\obj\Debug\net8.0-windows\MemoriaJaték.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\obj\Debug\net8.0-windows\MemoriaJaték.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\obj\Debug\net8.0-windows\MemoriaJaték.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\obj\Debug\net8.0-windows\MemoriaJaték.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\obj\Debug\net8.0-windows\MemoriaJaték.sourcelink.json
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\obj\Debug\net8.0-windows\MemoriaJaték.dll
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\obj\Debug\net8.0-windows\refint\MemoriaJaték.dll
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\obj\Debug\net8.0-windows\MemoriaJaték.pdb
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\obj\Debug\net8.0-windows\MemoriaJaték.genruntimeconfig.cache
+C:\Users\User\Source\Repos\Zsomboss\szoft_SSFADL\MemoriaJaték\obj\Debug\net8.0-windows\ref\MemoriaJaték.dll
