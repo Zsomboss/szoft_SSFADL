@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MemoryGame.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="háttérkép" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Kepek/background.jpg</Value>
+    </Setting>
+    <Setting Name="képKönyvtár" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Kepek/nagy/</Value>
+    </Setting>
+    <Setting Name="képUtótag" Type="System.String" Scope="User">
+      <Value Profile="(Default)">@2x.jpg</Value>
+    </Setting>
+    <Setting Name="képMéret" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">128</Value>
+    </Setting>
+    <Setting Name="képTávolság" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">132</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
